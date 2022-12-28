@@ -1,0 +1,24 @@
+# Repeater
+
+### Author: bluekirby0 || v4 Port by ItallicNinja
+### Link: https://github.com/AshitaXI/Ashita-v4beta
+### Addon: https://github.com/italicninja/ashitav4/tree/main/addons
+
+Allows a player to set a command to be repeated automatically.
+
+Syntax:
+```
+/repeat set <cmd>
+/repeat start
+/repeat stop
+/repeat cycle <seconds>
+/repeat help
+```
+
+```
+Sets the command to be repeated.
+Starts the repeater timer.
+Stops the repeater timer.
+Sets the cycle delay between commands (in seconds).
+Displays some help information.
+```
